@@ -30,7 +30,7 @@ body {
 }
 
 .box2 {
-  float: right;
+  float: left;
   border: 25px solid lightgreen;
 }
 
