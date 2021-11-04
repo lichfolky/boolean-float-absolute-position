@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 28px;
+  line-height: 1.2;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* ABSOLUTE */
+
+.container {
+  height: 500px;
+  margin-top: 75px;
+  background: beige;
+}
+
+.big-box {
+  position: relative;
+
+  height: 300px;
+  width: 400px;
+
+  top: 100px;
+  left: 0px;
+
+  z-index: 1;
+
+  border: 40px solid crimson;
+  background: white;
+}
+
+.small-box,
+.small-box2 {
+  position: absolute;
+
+  top: 0px;
+  left: 0px;
+
+  z-index: 2;
+
+  height: 125px;
+  width: 125px;
+  border: 25px solid cornflowerblue;
+  background: white;
+}
+
+.small-box2 {
+  top: 10px;
+  z-index: 1;
+
+  border: 25px solid chartreuse;
+}

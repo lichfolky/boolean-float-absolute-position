@@ -7,6 +7,8 @@ Boolean a float and absolute position exercise
 
 ## Absolute Position
 
+non puoi andare dietro padre
+
 ## Roadmap
 - Andare a braccio
 - Ore 15:00 riunione con nulla pronto (non si lavora fuori orario e/o gratis)
