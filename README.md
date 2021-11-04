@@ -3,11 +3,20 @@ Boolean a float and absolute position exercise
 
 [Github page](https://lichfolky.github.io/boolean-float-absolute-position/)
 
-## Float
 
 ## Absolute Position
+posizionamento rispetto parent
+valori negativi di position
+posizionamento del relative
+zindex
+non puoi andare dietro padre, come fare?  
 
-non puoi andare dietro padre
+
+## Float
+la pila
+cosa succede se togli il width e il float
+cosa succede se il centrale va a destra
+clearfix
 
 ## Roadmap
 - Andare a braccio

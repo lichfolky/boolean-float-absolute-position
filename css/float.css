@@ -16,7 +16,7 @@ body {
   height: 200px;
   margin-top: 75px;
   padding: 25px 0;
-  background: beige;
+  background: antiquewhite;
 }
 
 .box,
@@ -57,3 +57,18 @@ body {
   border: 10px solid cornflowerblue;
   background: white;
 }
+
+/* .clearfix {
+  overflow: auto;
+} */
+
+/* .row { 
+  display: flow-root; 
+} */
+
+/* 
+.row::after {
+  content: "";
+  clear: both;
+  display: block;
+} */
