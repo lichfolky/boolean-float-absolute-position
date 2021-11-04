@@ -3,6 +3,10 @@ Boolean a float and absolute position exercise
 
 [Github page](https://lichfolky.github.io/boolean-float-absolute-position/)
 
+## Float
+
+## Absolute Position
+
 ## Roadmap
 - Andare a braccio
 - Ore 15:00 riunione con nulla pronto (non si lavora fuori orario e/o gratis)
